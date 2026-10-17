@@ -34,6 +34,9 @@ This project showcases enterprise-grade cloud security by deploying an Amazon RD
 ## 📸 Proof of Execution
 <img width="1920" height="1080" alt="Screenshot (3540)" src="https://github.com/user-attachments/assets/69e3bb27-da3f-4765-8695-e58953447d4c" />
 <img width="1920" height="1080" alt="Screenshot (3542)" src="https://github.com/user-attachments/assets/1befa6b2-f710-4948-8c7e-aba6d3aeadcf" />
-<img width="1920" height="1080" alt="Screenshot (3542)" src="https://github.com/user-attachments/assets/45bcf9e5-3e82-4cf0-aa4f-156690d9d0e2" />
+<img width="1920" height="1080" alt="Screenshot (3541)" src="https://github.com/user-attachments/assets/c9d5389c-e032-4a63-9039-a5b2a4f0be8a" />
+<img width="1920" height="1080" alt="Screenshot (3543)" src="https://github.com/user-attachments/assets/5fed3b79-26ef-41c4-972c-81a96a06299b" />
+
+
 
 
